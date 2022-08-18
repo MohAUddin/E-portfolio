@@ -408,6 +408,9 @@ nav{
     color: #fff;
 }
 
+.none{
+    cursor:not-allowed
+}
 
 /* Footer */
 
@@ -465,6 +468,9 @@ footer{
     transform: translateX(60px);
     opacity: 1;
 }
+
+
+
 
 @media (max-width:768px) {
     nav{
